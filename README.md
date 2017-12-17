@@ -5,6 +5,22 @@
 The top level directory contains the basic green Tomu character and the
 logoized version.
 
+![Tomu Character](character.png)
+
+### [Colors](colors)
+
+These are different color versions of the Tomu character.
+
+![Blue Tomu](colors/Blue/Png.png)
+![Red Tomu](colors/Red/Png.png)
+
+### [OHSPark](ohs-park)
+
+This is a version of the logos colors in [OHSPark](https://ohspark.com)
+purple.
+
+![Tomu Bluetooth Version](bluetooth/Green/Png.png)
+
 # Variants
 
 ## [Bluetooth](bluetooth)
@@ -12,28 +28,24 @@ logoized version.
 This is a version of the logo intended for a Bluetooth version of the Tomu
 board which would probably be called the "Tomu-B".
 
-## [Colors](colors)
+![Tomu Bluetooth Version](bluetooth/Green/Png.png)
 
-These are different color versions of the Tomu character.
 
 ## [FPGA](fpga)
 
 This is a version of the logo intended for a FPGA version of the Tomu
 board which would probably be called the "Tomu-F".
 
-## [OHSPark](ohs-park)
+![Tomu FPGA Version](fpga/Green/Png.png)
 
-This is a version of the logos colors in [OHSPark](https://ohspark.com)
-purple.
 
 ## [NFC / Wireless](wireless).
 
 This is a version of the logo intended for a NFC and/or wireless version of the
 Tomu board which would probably be called the "Tomu-W".
 
-## Making your own variant.
+![Tomu Wireless Version](wireless/Green/Png.png)
 
-FIXME: Put instructions here.
 
 # Font
 
