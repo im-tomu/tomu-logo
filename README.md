@@ -19,7 +19,7 @@ These are different color versions of the Tomu character.
 This is a version of the logos colors in [OHSPark](https://ohspark.com)
 purple.
 
-![Tomu Bluetooth Version](bluetooth/Green/Png.png)
+![Tomu in OHSPark purple](ohspark/main/Png.png)
 
 # Variants
 
